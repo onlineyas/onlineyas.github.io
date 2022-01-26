@@ -14,6 +14,8 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 ## Here is a secondary heading
 
+ahahahh hello TEST
+
 Here's a useless table:
 
 | Number | Next number | Previous number |
@@ -24,7 +26,7 @@ Here's a useless table:
 | Two | Three | One |
 
 
-How about a yummy crepe?
+How about a yummy CREEP?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
