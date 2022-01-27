@@ -6,7 +6,7 @@ subtitle: Why you'd want to go on a date with me
 
 My name is Yasamin Rezaei. I have the following qualities:
 
-- I love colors.
+- I love colors. don't you?
 - I'm extremely commited to my queen bed.
 
 What else do you need?
