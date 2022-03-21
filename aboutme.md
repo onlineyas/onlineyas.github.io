@@ -13,5 +13,5 @@ She is the co-founder of [Instasociety](https://instasociety.org/), an open-acce
 
 She is a teaching assistant in University of Miami, teaching French, Italian and Persian language and currently works at the [Center for Humanities](https://humanities.miami.edu/) in University of Miami as a Ugrow fellow.
 
-You want to know more and stay in touch? Visit my [Website](https://yasaminrezaei.com/){target="_blank"} !
+You want to know more and stay in touch? Visit my [Website](https://yasaminrezaei.com/)!
 
