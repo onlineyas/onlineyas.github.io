@@ -1,5 +1,6 @@
 # Critical Introduction
 
+Read this in HTML [here](file:///Users/Jasmine/Desktop/markdown-editor.html) .
 
 ## What does this short essay encompass?
 
@@ -14,7 +15,6 @@ The MeToo movement has been a global phenomenon, with many countries having thei
 
 The dataset in discussion in this critical introduction is a collection of tweets related to the MeToo movement in Iran, gathered before and after the spring of 2022. It is important to note that this dataset does not claim to consist of all relevant tweets available about MeToo movement on this date range in Persian language and on Twitter social platform. 
 
-## What does this dataset consist of?
 The dataset was created by targeting various forms of the MeToo hashtag and other relevant hashtags used in the movement in the Persian language. 
 
 ## How was this dataset made and what for?
