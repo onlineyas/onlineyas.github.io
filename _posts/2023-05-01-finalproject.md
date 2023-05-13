@@ -106,3 +106,9 @@ Chapter 3 of "Data Feminism" emphasizes the critical role of asking good questio
 
 Please copay and paste this link in your browser to access the dataset :
 https://docs.google.com/spreadsheets/d/1y-yqSJx-sGl___MjJmeaLL87H3W3hDCT4Xc18nHgl5I/edit#gid=667916914
+
+
+### Cited Works
+- Rezai, Yasamin, and Mehdi Sedaghat Payam. “Twitter Data Analysis on #MeTooIran.” The #MeToo Movement in Iran: Reporting Sexual Violence and Harassment, 2023.
+
+- Rudakoff, Judith, ed. Performing# MeToo: How not to look away. Intellect Books, 2021.
