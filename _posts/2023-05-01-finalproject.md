@@ -1,6 +1,6 @@
 # Critical Introduction
 
-Read this in HTML [here](file:///Users/Jasmine/Desktop/markdown-editor.html) .
+Read this in HTML [here](https://drive.google.com/file/d/1LjCqyCXR1Jymf6L6fjgiIbLs49qi4J0M/view?usp=sharing) .
 
 ## What does this short essay encompass?
 
